@@ -10,7 +10,7 @@ ryan_stoker_rideshare_data.py
 
 ### Description
 
-Part of a Udacity.com nanodegree, it explores sample bike rideshare data.
+Part of a Udacity.com nano-degree, it explores sample bike rideshare data.
 
 ### Files used
 
@@ -20,4 +20,5 @@ washington.csv
 
 ### Credits
 https://blog.finxter.com/blog/
+
 https://github.com/jlord/git-it-electron
