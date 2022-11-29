@@ -20,5 +20,4 @@ washington.csv
 
 ### Credits
 https://blog.finxter.com/blog/
-
 https://github.com/jlord/git-it-electron
