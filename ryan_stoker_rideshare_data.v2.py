@@ -31,7 +31,7 @@ def get_filters():
     while day not in ['monday','tuesday','wednesday','thursday','friday','saturaday','sunday']: day = input("day selection is invalid! Please select again: ").lower()
 
     print('-'*40)
-    return city, month, day!!!
+    return city, month, day
 
 
 def load_data(city, month, day):
